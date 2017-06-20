@@ -1,0 +1,4 @@
+C:\Users\Trngadmin\Documents\Visual Studio 2010\Projects\helloservice\helloservice\bin\helloservice.dll
+C:\Users\Trngadmin\Documents\Visual Studio 2010\Projects\helloservice\helloservice\bin\helloservice.pdb
+C:\Users\Trngadmin\Documents\Visual Studio 2010\Projects\helloservice\helloservice\obj\Debug\helloservice.dll
+C:\Users\Trngadmin\Documents\Visual Studio 2010\Projects\helloservice\helloservice\obj\Debug\helloservice.pdb
